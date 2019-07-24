@@ -1,0 +1,10 @@
+Control
+D - move right
+A - move left
+S - crouch
+Space - jump
+Shift - attack
+F - use adrenalin
+E - open the door
+P - open submenu
+press enter to close

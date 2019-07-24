@@ -1,0 +1,13 @@
+Credits
+Game created by Michal Nalepa as University Project
+Silesian University of Technology
+nalepa-michal@wp.pl
+Used game assets:
+https://rvros.itch.io/animated-pixel-hero - main character
+https://jesse-m.itch.io/jungle-pack - jungle assets
+http://pixelartmaker.com/art/e00f94d43b5c1ba - key      
+https://pezcame.com/ZG9vciBzcHJpdGU/ - door
+https://jesse-m.itch.io/skeleton-pack - skeleton
+http://pixelartmaker.com/art/dca2574a41f6294 - spikes
+https://pixelsapphire.itch.io/pixel-16x16-heart - heart
+press enter to close
